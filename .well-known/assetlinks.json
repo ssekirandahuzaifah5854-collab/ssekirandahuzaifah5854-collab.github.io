@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.ssekirandahuzaifah5854_collab.twa",
+    "sha256_cert_fingerprints": ["E1:5B:1D:7A:F6:40:82:C2:68:72:65:8D:31:5F:35:57:DB:0E:A5:21:13:49:B1:1B:91:C1:D8:D2:C8:E6:3A:D6"]
+  }
+}]
